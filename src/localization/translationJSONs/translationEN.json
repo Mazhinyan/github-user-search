@@ -1,0 +1,21 @@
+{
+	"button": {
+		"search": "Search",
+		"getUser": "Get default user",
+		"load": "loading",
+		"delete": "Delete this User",
+		"showMore": "Show More",
+		"showLess": "Show Less"
+	},
+	"validation": "Please write a valid username or detect your network",
+	"descriptions": {
+		"full": "The full information get from github API is",
+		"empty": "There is no more any data"
+	},
+	"inputs": {
+		"placeholder": "Search by valid user name"
+	},
+	"user": {
+		"nameIs": "User name is"
+	}
+}
